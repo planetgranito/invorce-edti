@@ -3,6 +3,7 @@ invorce edti of planet
 
 # Clone repo
 git clone https://github.com/planetgranito/invorce-edti.git
+
 cd invorce edti
 
 # Create virtual env
